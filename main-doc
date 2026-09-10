@@ -10,12 +10,12 @@
                 background-color: #f4ebe7;
                 margin: 0;
                 padding: 0;
-
-                @font-face {
-                     font-family: 'Anicatxt';
-                    src: url('Anicatxt-Regular.ttf') format('ttf');
                 }
-            }
+                @font-face {
+                         font-family: 'Anicatxt';
+                        src: url('Anicatxt-Regular.ttf') format('ttf');
+                }
+        </style>
     </head>
     <body>
         <h1> test file to see the font </h1>
