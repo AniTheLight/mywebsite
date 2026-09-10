@@ -3,22 +3,25 @@
     <head>
         <meta charset="UTF-8">
         <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
         <title>anica's workshop</title>
 
         <style>
+            @font-face {
+                font-family: 'Anicatxt';
+                src: url('Anicatxt-Regular.ttf') format('truetype');
+            }
+
             body {
                 background-color: #f4ebe7;
                 margin: 0;
                 padding: 0;
-                }
-                @font-face {
-                         font-family: 'Anicatxt';
-                        src: url('Anicatxt-Regular.ttf') format('ttf');
-                }
+                font-family: 'Anicatxt', sans-serif;
+            }
         </style>
     </head>
-    <body>
-        <h1> test file to see the font </h1>
 
+    <body>
+        <h1>test file to see the font</h1>
     </body>
 </html>
