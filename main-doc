@@ -8,17 +8,17 @@
         <style>
             body {
                 background-color: #f4ebe7;
-                font-family: Arial, sans-serif;
                 margin: 0;
                 padding: 0;
 
                 @font-face {
                      font-family: 'Anicatxt';
-                    src: url('fonts/my-font-file.woff2') format('woff2');
-}
+                    src: url('Anicatxt-Regular.ttf') format('ttf');
+                }
             }
     </head>
     <body>
+        <h1> test file to see the font </h1>
 
     </body>
 </html>
